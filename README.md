@@ -6,7 +6,7 @@
 
 Clique no botão abaixo e configure a aplicação pelo **Delivery Pipeline** (IBM Continuous Delivery).
 
-[![Deploy to IBM Cloud](https://cloud.ibm.com/devops/setup/deploy/button.png)](https://cloud.ibm.com/devops/setup/deploy?repository=https://github.com/sergiogama/chatbot-D1)
+[![Deploy to IBM Cloud](https://cloud.ibm.com/devops/setup/deploy/button.png)](https://cloud.ibm.com/devops/setup/deploy?repository=https://github.com/sergiogama/wa-d1)
 
 ## Local
 
